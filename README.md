@@ -1,6 +1,6 @@
 ```
 ╔══════════════════════════ hello ═════════════════════════╗ ┃
-║ I'm a network engineer who aslo interested of automation ║ ┣━━ Networking
+║ I'm a network engineer who interested in automation      ║ ┣━━ Networking
 ║                                                          ║ ┃   ┣━━ Routing & Switches
 ║                                                          ║ ┃   ┗━━ Firewalls
 ╚══════════════════════════════════════════════════════════╝ ┗━━ Python
